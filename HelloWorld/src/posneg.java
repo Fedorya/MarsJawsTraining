@@ -9,7 +9,7 @@ public class posneg {
 		//Mix entre le scanner et les conditions.
 		
 		//Revision 0.3 :
-		//Ajout du localisateur numérique.
+		//Ajout du localisateur numérique..
 		
 		System.out.println("Entrez un chiffre positif ou négatif.");
 		Scanner sc = new Scanner (System.in);
