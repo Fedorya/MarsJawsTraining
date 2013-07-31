@@ -12,8 +12,10 @@ public class posneg {
 		//Ajout du localisateur numérique..
 		
 		System.out.println("Entrez un chiffre positif ou négatif.");
+		
 		Scanner sc = new Scanner (System.in);
 		int i = sc.nextInt();
+		
 		if (i < 0){
 			System.out.print("Le résultat est négatif");
 		}
