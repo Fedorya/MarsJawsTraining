@@ -6,7 +6,7 @@ public class Test1 {
 		Scanner sc = new Scanner(System.in);
 		char reponse = ' ', choix = ' ';
 		
-		//HELP !
+		//HELP !!
 				System.out.println(" CONVERTISSEUROTRON 9000 DE DEGRÉS FAHRENHEIT/CELSIUS");
 				System.out.println("------------------------------------------------------");
 				
