@@ -7,28 +7,13 @@ public class Debut1 {
 		// TODO Auto-generated method stub
 //Chalut comment 軋 va ?
 		
-		String prenom = null;
-		String humeur = "bien";
-		char reponse = 'O';
-		Scanner sc =  new Scanner(System.in);
-		while (reponse == 'O' )
-		{
-			do{
-			System.out.println("Bonjour, quel est votre prénom ?");
-			prenom = sc.nextLine();
-			System.out.println("Bonjour  " +prenom+ " comment allez vous ? ");
-			
-			
-			do{
-				System.out.println("Voulez vous ressayer ? (O/N) ");
-				reponse = sc.nextLine() .charAt(0);
-			}while (reponse != 'O' && reponse != 'N');
-			}while (reponse == 'O');
-			
+		Scanner sc = new Scanner(System.in);
+			float c = sc.nextFloat(); float f = (float) (9.0/5.0*c+32);
+			System.out.println(" " +c+ " °C correspond à : " +f+ " °F. ");
 			
 	
-		}
-				System.out.println("Aurevoir " +prenom+ " et bonne journée. ");
+		
+				
 		
 		
 		
