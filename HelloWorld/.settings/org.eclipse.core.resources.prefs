@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
-encoding//src/ConvertisseurCF.java=UTF-8
-encoding//src/Training.java=UTF-8
-encoding//src/posneg.java=UTF-8
+encoding//src/fr/casual/train/Main.java=UTF-8
+encoding//src/fr/casual/train/Paire.java=UTF-8
+encoding//src/fr/evenementiel2/train/Fenetre.java=UTF-8
+encoding//src/fr/evenementiel2/train/Horloge.java=UTF-8
+encoding/test=UTF-8
